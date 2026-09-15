@@ -1185,7 +1185,7 @@
         <!-- HERO -->
         <section class="hero" aria-label="Hero banner">
             <div class="container">
-                <div class="badge"><i class="fas fa-sparkles"></i> New Collection 2026</div>
+                <div class="badge"><em class="fas fa-sparkles"></em> New Collection 2026</div>
                 <h1>Discover Premium <br>Essentials</h1>
                 <p>Curated fashion, tech & accessories with free shipping on your first order. Limited-time deals await.</p>
                 <div class="actions">
@@ -1203,7 +1203,7 @@
                         <h2 id="cat-title">Browse Categories</h2>
                         <p>Find exactly what you're looking for</p>
                     </div>
-                    <a href="#" class="view-all">All Categories <i class="fas fa-arrow-right"></i></a>
+                    <a href="#" class="view-all">All Categories <em class="fas fa-arrow-right"></em></a>
                 </div>
                 <div class="categories-grid" id="categoriesGrid" aria-live="polite"></div>
             </div>
